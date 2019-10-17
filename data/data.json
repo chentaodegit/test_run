@@ -1,0 +1,29 @@
+{
+  "login_success":{
+    "username":"18503041569",
+    "password":"ct12345678",
+    "verify_code":"8888",
+    "status":1,
+    "msg":"登陆成功"
+  },"login_success2":{
+    "username":"18503041569",
+    "password":"ct12345678",
+    "verify_code":"8888",
+    "status":1,
+    "msg":"登陆成功"
+  },
+  "login_wrong_username":{
+    "username":"1301234567A",
+    "password":"ct12345678",
+    "verify_code":"8888",
+    "status":-1,
+    "msg":"账号不存在"
+  },
+  "login_wrong_password":{
+    "username":"18503041569",
+    "password":"1234567",
+    "verify_code":"8888",
+    "status":-2,
+    "msg":"密码错误"
+  }
+}
